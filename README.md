@@ -9,7 +9,7 @@ A user-friendly web application for calculating tips and splitting bills effortl
 - **Real-time Calculations**: Instantly see tip amount, total, and per-person breakdowns 🔄
 
 ## Live Demo 🚀
-Experience it live: [https://iam269.github.io/Tip-Calculator/](https://iam269.github.io/Tip-Calculator/)
+Experience it live: [https://itsiamdev.github.io/Tip-Calculator/](https://itsiamdev.github.io/Tip-Calculator/)
 
 ## Technologies Used 🛠️
 - HTML5
